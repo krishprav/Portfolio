@@ -11,7 +11,6 @@ export default function Home() {
           {name: 'Home', link: '/'}
         ]} />
       <Hero />
-      <Grid />
       </div>
     </main>
   );
